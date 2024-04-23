@@ -1,5 +1,4 @@
-p,
-li,
-h1 {
-  color: red;
+html {
+  font-size: 10px;
+  font-family: "Ubuntu", sans-serif;
 }
