@@ -1,4 +1,18 @@
 html {
-  font-size: 10px;
-  font-family: "Ubuntu", sans-serif;
+  font-size: 20 px;
+  font-family: 'Raleway', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  }
+
+h1 {
+  font-size: 25px;
+  text-align: center;
+  }
+
+p,  
+li {
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 1px;
 }
